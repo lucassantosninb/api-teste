@@ -114,8 +114,6 @@ services:
     user: 1100:1100
     ports:
       - 9000:9000
-      - 12201:12201
-      - 12201:12201/udp
     volumes:
       - graylog_journal:/usr/share/graylog/data/journal
     environment:
