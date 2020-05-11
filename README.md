@@ -70,7 +70,7 @@ Password: *myapi* <br>
 
 **Implementações:**
 
-A validação dos endpoints faz-se necessário user/password e estão descritas abaixo utilizando o _cURL_:
+A validação dos endpoints faz-se necessário user/password e estão descritas abaixo utilizando o _cURL_: <br>
 _(PS.: Substitua os devidos valores "X")_ 
 
 <br>
